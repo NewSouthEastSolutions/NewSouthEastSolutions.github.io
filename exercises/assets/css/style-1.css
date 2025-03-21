@@ -94,7 +94,7 @@ section > * { max-width: 1600px; margin-left: auto; margin-right: auto }
 
 /* ============= TYPOGRAPHY ============ */
 
-body {background color: antiquewhite;}
+body {background-color: antiquewhite;}
 
 h1 {
     font-size: calc(var(--fs-xxxl) *1.3);

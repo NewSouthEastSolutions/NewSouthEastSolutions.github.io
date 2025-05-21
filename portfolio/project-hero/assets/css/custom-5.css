@@ -38,7 +38,7 @@ header.theme-dark .container-btn a.btn:nth-child(1):visited { color: var(--white
 
 header.theme-dark .container-btn a.btn:nth-child(1):focus,
 header.theme-dark .container-btn a.btn:nth-child(1):hover,
-header.theme-dark .container-btn a.btn:nth-child(1):active { color: var(--black-000) }
+header.theme-dark .container-btn a.btn:nth-child(1):active { color: var(--green-400) }
 
 header.theme-dark .container-btn a.btn:nth-child(1):focus,
 header.theme-dark .container-btn a.btn:nth-child(1):hover,
